@@ -1,7 +1,7 @@
 # Olá, me chamo Paulo Victor ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou estudando BackEnd na TRYB
+- 🌱 Atualmente estou estudando BackEnd na TRYBE
 
 ## Contatos:
 
