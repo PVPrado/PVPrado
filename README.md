@@ -1,8 +1,6 @@
 # Olá, me chamo Paulo Victor! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou estudando Python na TRYBE
-
 ## Ferramentas e Tecnologias
 
 <div>
