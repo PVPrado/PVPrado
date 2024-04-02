@@ -2,11 +2,12 @@
   <h1 style="display: inline-block">Hello World!</h1>
 </div>
 
-<p>
-  Olá 👋, sou o Paulo!
+<div>
+  <h3>Olá 👋, sou o Paulo!</h3>
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com cybersecurity.
-</p>
+  <h4>- 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com cybersecurity.</h4> 
+</div>
+
 
 <h1>📱 Contatos</h1>
 
