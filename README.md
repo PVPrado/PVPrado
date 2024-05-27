@@ -5,7 +5,7 @@
 <div>
   <h3>Olá 👋, sou o Paulo!</h3>
 
-  <h4>- 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com cybersecurity.</h4> 
+  <h4>- 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como QA.</h4> 
 </div>
 
 
